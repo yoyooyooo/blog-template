@@ -7,7 +7,7 @@ module.exports = {
     title: `a blog`,
     description: `a blog`,
     author: ``,
-    siteUrl: ``,
+    siteUrl: `https://example.com`,
   },
   plugins: [
     `gatsby-transformer-sharp`,
